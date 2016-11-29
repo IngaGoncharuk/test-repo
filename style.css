@@ -1,0 +1,232 @@
+body {font-family: 'Raleway', sans-serif;}
+
+.main_image {
+	text-align:center;
+	padding-top: 251px;
+	padding-bottom: 106px;
+	margin: 0 auto;
+}
+
+.top {width: 100%;}
+
+.header_wrap { 
+	background-color: #3A5F3C;
+	background: radial-gradient(#4D7C50, #3A5F3C);
+	margin-top:0px;
+	padding_top:0px;}
+
+.logo {display:inline-block; padding: 15px 10px;}
+
+.logo_menu_wrap {
+	max-width:980px;
+	margin:0 auto;
+	right:0;
+	left:0;
+	padding-top: 40px;
+	position:absolute;
+}
+
+menu {float:right;}
+
+.menu_wrap {
+    position: relative;
+    margin: 0 auto;
+    top:0px;
+    right:0px;
+    display:inline-block;
+}
+
+.menu_wrap a {
+    color: #FFFFFF;
+    font-size: 21px;
+    font-family: Raleway;
+    line-height: 14px;
+    text-decoration:none;
+}
+
+.menu_item {
+    display:inline-block;
+    text-align: center;
+    padding: 14px;
+    margin: 14px;
+}
+
+.menu_item:hover {
+	margin-top:2px;
+	margin-left:12px;
+	margin-right:12px;
+    border: 2px solid white;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 48px;
+    text-align: center;
+    color:#737070;
+}
+	
+.header_title_white {
+    color:white;
+}
+
+.more_flavor_wrap figure{
+	padding-top: 75px;
+}
+
+.text_description {
+	font-family: 'Raleway', sans-serif;
+	margin:0 auto;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color:#737070;
+    padding-top:18px;
+}
+
+.Pure_health_wrap figure {
+	margin-top: 34px;
+}
+
+.features {
+	display:inline-block; 
+	position:relative;
+	margin:0 auto;
+	top:0;
+	}
+
+.feature1{
+	position:absolute;
+	background-image:  url(images/pink_stripe_w_circle.png);
+	background-repeat: no-repeat;
+	width: 205px;
+	height: 34px;
+	top:-180px;
+	right:90px;
+	}
+
+.feature2{
+	position:absolute;
+	background-image:  url(images/yellow_stripe_w_circle.png);
+	background-repeat: no-repeat;
+	width: 205px;
+	height: 34px;
+	top:-40px;
+	right:-10px;
+	}
+
+
+
+.feature3{
+	position:absolute;
+	background-image:  url(images/green_stripe_w_circle.png);
+	background-repeat: no-repeat;
+	width: 205px;
+	height: 64px;
+	top:-195px;
+	right:-266px;
+	}
+
+.feature4{
+	position:absolute;
+	background-image:  url(images/blue_stripe_w_circle.png);
+	background-repeat: no-repeat;
+	width: 205px;
+	height: 50px;
+	top:-80px;
+	right:-280px;
+	}
+
+.feature p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	line-height: 18px;
+	color:white;
+	text-align:left;
+	padding-top:5px;
+}
+
+.feature3 p{
+	text-align:right;
+	margin-top:-30px;} 
+
+.feature4 p{
+	text-align:right;
+	margin-top:-20px;
+	margin-right: 25px;}
+
+.feature2 p{
+	text-align:left;
+	margin-top:-20px;}
+
+.pure_health_wrap .text_description {
+	color:white;
+}
+
+.pure_health_wrap { 
+	background-color: #2b342b;
+	margin-top:0px;
+	padding_top:0px;}
+
+.plans_wrap { 
+	background-color: #e9ede9;
+	margin-top:0px;
+	padding_top:0px;
+}
+
+.prices_wrap {
+	max-width: 980px;
+	margin:0 auto;
+	margin-top:95px;
+	font-size:0;
+}
+
+.price {
+	display: inline-block;
+	width:33.33333%; 	
+	font-size: 25px;
+	color:white;
+	border:0;
+}
+
+.bg_price {
+	background-color:#d3cfcf;
+	margin: 9px;
+	
+}
+
+.title_price {
+	color:#7d7b7b;
+	padding:30px;}
+
+.title_price span {color:#afacac;}
+
+.text_price {
+	color:#4e4e4e;
+	padding-top: 30px;}
+
+.text_price span {
+	font-family:'Open Sans';
+	color:#b38e48;
+	line-height: 50px;
+}
+
+.button_price {
+	margin-top: 40px;
+	background: #71ae5a;
+	border: none;
+	border-radius: 13px;
+    color: #e9ede9;
+    padding: 12px 18px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 40px;
+}
+
+
+
+
+
+
+
+
